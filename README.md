@@ -1,6 +1,8 @@
 # RFS
-Material till RFS
+Hej alla handledare och ärade elever
 
-I detta fantastiska repository finner ni sourcecode till materialet för astronomisk ungdoms rymdforskar skola(RFS). Här kommer det finns sourcecode till LaTex dokument, jupyter notebooks m.m.
+Här hittar ni alla datorlabbar vi kommer gå igenom. 
 
-Konventionen för commits är att vid ny feature skapa en branch för denna och commita dit, vid uppdatering av branch gäller commit till feature WIP branch. Konvention för commit message är att skriva vad man gjort på ett kort och konsist sätt. Material som är redo att användas återfinns i main branchen, stabilt material redo för review finns i stable eller respetive features branch. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hobbit0419/Rymd_Forskar_Skolan_RFS/main)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Hobbit0419/Rymd_Forskar_Skolan_RFS/main
