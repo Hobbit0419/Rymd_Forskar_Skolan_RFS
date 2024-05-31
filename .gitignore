@@ -1,1 +1,4 @@
 /.venv
+/handledare
+*.jpg
+*.fits
