@@ -2,5 +2,6 @@
 /handledare
 *.jpg
 *.fits
-/3. Arduino/circuitpython_kernel
-/3. Arduino/.ipynb_checkpoints
+*.vot
+Astronomi/Projekt hjälp
+Arduino/Projekt hjälp

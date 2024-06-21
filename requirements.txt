@@ -4,4 +4,3 @@ pandas
 scipy
 astropy
 astroquery
-pyserial
